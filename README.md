@@ -74,9 +74,22 @@ JavaFXChatApp/
    `C:\Users\sneha\Downloads\openjfx-17.0.16_windows-x64_bin-sdk\javafx-sdk-17.0.16`
 3. Go to `.vscode/settings.json` and set:
 
-```json
+`json
 {
   "java.project.referencedLibraries": [
     "lib/**/*.jar"
   ]
 }
+
+
+👩‍💻 About the Author
+
+Sneha Dhir
+🎓 B.Tech CSE (AIML)
+🏫 University of Petroleum and Energy Studies (UPES), Dehradun
+📧 Email: snehadhir7998@gmail.com
+💬 Passionate about Java, software development, and building practical projects.
+
+⸻
+
+
